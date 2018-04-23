@@ -1,0 +1,19 @@
+h1{
+    background-color:grey;
+}
+
+h1:active{
+ background-color:brown;
+
+}
+h1:hover{
+    background-color:green;
+
+}
+
+h2:hover{
+    color:red;
+}
+p:focus{
+    background-color: yellow;
+}

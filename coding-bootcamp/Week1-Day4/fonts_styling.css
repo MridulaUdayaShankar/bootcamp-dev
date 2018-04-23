@@ -1,0 +1,22 @@
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    }
+    body  {
+
+     background-color:black;
+     color:white;
+    }
+
+style2{
+    font-size: 16px;
+    font-weight: bold;
+    color:white;
+}
+
+style3{
+    line-height: 10px;
+
+}
+style4{
+    letter-spacing: 10px;
+}

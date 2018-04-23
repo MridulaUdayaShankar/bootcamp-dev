@@ -1,0 +1,14 @@
+h1{
+    font-family: 'Black Han Sans', sans-serif;
+    font-weight: 100px;
+    text-align: center;
+    color: brown;
+}
+
+    p{
+        /* font-family: 'Gamja Flower', cursive; */
+        font-family: 'Lobster', cursive;
+        line-height: 50px;
+        background-color: aquamarine;
+}
+

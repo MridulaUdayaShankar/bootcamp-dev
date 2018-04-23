@@ -1,0 +1,42 @@
+.large {
+    font-size:42px;
+}
+
+.small {
+    font-size:20px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.center {
+    text-align: center;
+}
+
+.red {
+    color: red;
+}
+
+.blue {
+  color:blue;  
+}
+.green {
+    color: green;
+}
+
+.orange {
+    color:orange;
+}
+
+.font-family {
+    font-family: cursive;
+}
+
+.styledFont{
+    font-style: oblique;
+}
+
+#styledImage{
+    border: solid 5px orange;
+}
